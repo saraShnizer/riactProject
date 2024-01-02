@@ -1,0 +1,26 @@
+.meeting{
+    /* border: solid 1vw #fffef4; */
+    margin: 1vw;
+padding: 1vw;
+background-color:#fffef4 ;
+
+}
+/* .red{
+    border: solid 1vw #ba5050;
+} */
+.red{
+    /* background-color: rgba(255, 0, 0, 0.459); */
+    border: solid 0.5vw rgba(181, 90, 90, 0.459);
+    background-color:#fffef4 ;
+
+  }
+  .orange{
+    border: solid 0.5vw rgba(201, 147, 55, 0.362);
+ 
+  }
+  .green{
+    border: solid 0.5vw  rgba(89, 192, 78, 0.347);
+padding: 1vw;
+  
+
+  }
